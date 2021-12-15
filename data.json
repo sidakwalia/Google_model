@@ -1,0 +1,413 @@
+{
+    "data": {
+        "asset_text": {
+            "top_text_asset": {
+                "13559389487_asset": {
+                    "account_id": "4527200254",
+                    "ad_ids": [
+                        "536345835337",
+                        "533665724383",
+                        "536276234847",
+                        "515163626050"
+                    ],
+                    "clicks": 765.0,
+                    "conversions": 146.0,
+                    "cost_per_conversions": 4.3309387192,
+                    "ctr": 9.8455598456,
+                    "impressions": 7770.0,
+                    "spend": 632.317053,
+                    "type": "HEADLINE",
+                    "value": "Wanna win $10,000,000?"
+                },
+                "13559389490_asset": {
+                    "account_id": "4527200254",
+                    "ad_ids": [
+                        "536345835337",
+                        "533665724383",
+                        "536276234847",
+                        "515163626050"
+                    ],
+                    "clicks": 748.0,
+                    "conversions": 156.0,
+                    "cost_per_conversions": 4.4544577115,
+                    "ctr": 9.5786912537,
+                    "impressions": 7809.0,
+                    "spend": 694.895403,
+                    "type": "HEADLINE",
+                    "value": "100% free. No Surprises"
+                },
+                "13559389493_asset": {
+                    "account_id": "4527200254",
+                    "ad_ids": [
+                        "536345835337",
+                        "533665724383",
+                        "536276234847",
+                        "515163626050"
+                    ],
+                    "clicks": 462.0,
+                    "conversions": 83.0,
+                    "cost_per_conversions": 10.063362988,
+                    "ctr": 4.9201277955,
+                    "impressions": 9390.0,
+                    "spend": 835.259128,
+                    "type": "HEADLINE",
+                    "value": "FDIC insured. No risk."
+                },
+                "13575050184_asset": {
+                    "account_id": "4527200254",
+                    "ad_ids": [
+                        "536345835337",
+                        "533665724383",
+                        "536276234847",
+                        "515163626050"
+                    ],
+                    "clicks": 793.0,
+                    "conversions": 206.0,
+                    "cost_per_conversions": 4.7316702573,
+                    "ctr": 8.6327019377,
+                    "impressions": 9186.0,
+                    "spend": 974.724073,
+                    "type": "HEADLINE",
+                    "value": "Start Saving. Start Winning."
+                },
+                "13575050187_asset": {
+                    "account_id": "4527200254",
+                    "ad_ids": [
+                        "533665724383",
+                        "515163626050"
+                    ],
+                    "clicks": 573.0,
+                    "conversions": 84.0,
+                    "cost_per_conversions": 5.3044079881,
+                    "ctr": 11.6180048662,
+                    "impressions": 4932.0,
+                    "spend": 445.570271,
+                    "type": "HEADLINE",
+                    "value": "Banking, but fun"
+                },
+                "16790098603_asset": {
+                    "account_id": "4527200254",
+                    "ad_ids": [
+                        "550988341652",
+                        "553130310477",
+                        "545891673356",
+                        "542450079804"
+                    ],
+                    "clicks": 516.0,
+                    "conversions": 304.0,
+                    "cost_per_conversions": 3.2876283026,
+                    "ctr": 6.184084372,
+                    "impressions": 8344.0,
+                    "spend": 999.439004,
+                    "type": "HEADLINE",
+                    "value": "Save money. Win a Tesla."
+                },
+                "16790098612_asset": {
+                    "account_id": "4527200254",
+                    "ad_ids": [
+                        "545891673356",
+                        "542450079804"
+                    ],
+                    "clicks": 1461.0,
+                    "conversions": 796.0,
+                    "cost_per_conversions": 5.584798995,
+                    "ctr": 3.5781636502,
+                    "impressions": 40831.0,
+                    "spend": 4445.5,
+                    "type": "DESCRIPTION",
+                    "value": "Even if you don't win, your money still grows over 2x the national average."
+                },
+                "16790098615_asset": {
+                    "account_id": "4527200254",
+                    "ad_ids": [
+                        "545891673356",
+                        "542450079804"
+                    ],
+                    "clicks": 398.0,
+                    "conversions": 229.0,
+                    "cost_per_conversions": 2.8581290655,
+                    "ctr": 6.3426294821,
+                    "impressions": 6275.0,
+                    "spend": 654.511556,
+                    "type": "HEADLINE",
+                    "value": "Do you love money? Yes you do."
+                },
+                "16790098627_asset": {
+                    "account_id": "4527200254",
+                    "ad_ids": [
+                        "545891673356",
+                        "542450079804"
+                    ],
+                    "clicks": 491.0,
+                    "conversions": 243.0,
+                    "cost_per_conversions": 3.8612050658,
+                    "ctr": 6.9106263195,
+                    "impressions": 7105.0,
+                    "spend": 938.272831,
+                    "type": "HEADLINE",
+                    "value": "Save money. Win $$$$$."
+                },
+                "16806662138_asset": {
+                    "account_id": "4527200254",
+                    "ad_ids": [
+                        "545891673356",
+                        "542450079804"
+                    ],
+                    "clicks": 547.0,
+                    "conversions": 296.0,
+                    "cost_per_conversions": 3.6652498176,
+                    "ctr": 6.5049351885,
+                    "impressions": 8409.0,
+                    "spend": 1084.913946,
+                    "type": "HEADLINE",
+                    "value": "Savings accounts suck. Yotta"
+                },
+                "17848573371_asset": {
+                    "account_id": "4527200254",
+                    "ad_ids": [
+                        "553130310477"
+                    ],
+                    "clicks": 2.0,
+                    "conversions": 2.0,
+                    "cost_per_conversions": 0.915,
+                    "ctr": 10.5263157895,
+                    "impressions": 19.0,
+                    "spend": 1.83,
+                    "type": "DESCRIPTION",
+                    "value": "With the Yotta's Lucky Swipe feature every swipe has a 1 in 250 chance of being on us!"
+                },
+                "17848573377_asset": {
+                    "account_id": "4527200254",
+                    "ad_ids": [
+                        "553130310477"
+                    ],
+                    "clicks": 3.0,
+                    "conversions": 2.0,
+                    "cost_per_conversions": 3.63,
+                    "ctr": 6.6666666667,
+                    "impressions": 45.0,
+                    "spend": 7.26,
+                    "type": "DESCRIPTION",
+                    "value": "With Yotta every time you use your debit card you have a chance to be instantly reimbursed"
+                },
+                "18160144706_asset": {
+                    "account_id": "4527200254",
+                    "ad_ids": [
+                        "542450079804"
+                    ],
+                    "clicks": 9.0,
+                    "conversions": 8.0,
+                    "cost_per_conversions": 4.2675,
+                    "ctr": 5.1428571429,
+                    "impressions": 175.0,
+                    "spend": 34.14,
+                    "type": "DESCRIPTION",
+                    "value": "Saving is sexy with Yotta."
+                }
+            },
+            "worst_text_asset": {
+                "13503143872_asset": {
+                    "account_id": "4527200254",
+                    "ad_ids": [
+                        "533665724383",
+                        "515163626050"
+                    ],
+                    "clicks": 158.0,
+                    "conversions": 52.0,
+                    "cost_per_conversions": 7.1382692308,
+                    "ctr": 2.0979949542,
+                    "impressions": 7531.0,
+                    "spend": 371.19,
+                    "type": "DESCRIPTION",
+                    "value": "Get paid more on your savings. Win up to $10 million in an FDIC insured account"
+                },
+                "13503143875_asset": {
+                    "account_id": "4527200254",
+                    "ad_ids": [
+                        "536345835337",
+                        "533665724383",
+                        "536276234847",
+                        "515163626050"
+                    ],
+                    "clicks": 338.0,
+                    "conversions": 104.0,
+                    "cost_per_conversions": 8.6665384615,
+                    "ctr": 2.1877022654,
+                    "impressions": 15450.0,
+                    "spend": 901.32,
+                    "type": "DESCRIPTION",
+                    "value": "Win life-changing cash prizes up to $10m every week by saving in an FDIC-insured account"
+                },
+                "13559389499_asset": {
+                    "account_id": "4527200254",
+                    "ad_ids": [
+                        "545891673356",
+                        "550988341652",
+                        "542450079804",
+                        "533665724383",
+                        "515163626050"
+                    ],
+                    "clicks": 247.0,
+                    "conversions": 113.0,
+                    "cost_per_conversions": 6.2722123894,
+                    "ctr": 1.6380396578,
+                    "impressions": 15079.0,
+                    "spend": 708.76,
+                    "type": "DESCRIPTION",
+                    "value": "Save money and get free tickets to win prizes up to $10,000,000 every week."
+                },
+                "16790098609_asset": {
+                    "account_id": "4527200254",
+                    "ad_ids": [
+                        "545891673356",
+                        "542450079804"
+                    ],
+                    "clicks": 86.0,
+                    "conversions": 14.0,
+                    "cost_per_conversions": 15.3985714286,
+                    "ctr": 1.5283454772,
+                    "impressions": 5627.0,
+                    "spend": 215.58,
+                    "type": "DESCRIPTION",
+                    "value": "For every $25 you have saved, you'll get free 1 ticket to win a Tesla or up to $10M."
+                },
+                "16790098624_asset": {
+                    "account_id": "4527200254",
+                    "ad_ids": [
+                        "545891673356",
+                        "542450079804"
+                    ],
+                    "clicks": 119.0,
+                    "conversions": 55.0,
+                    "cost_per_conversions": 5.6176363636,
+                    "ctr": 1.2217659138,
+                    "impressions": 9740.0,
+                    "spend": 308.97,
+                    "type": "DESCRIPTION",
+                    "value": "Weekly drawings that are better than the lottery. Save money to win a Tesla or $10M."
+                },
+                "16806661307_asset": {
+                    "account_id": "4527200254",
+                    "ad_ids": [
+                        "550988341652",
+                        "545891673356",
+                        "542450079804"
+                    ],
+                    "clicks": 726.0,
+                    "conversions": 346.0,
+                    "cost_per_conversions": 4.5787651908,
+                    "ctr": 2.9537409984,
+                    "impressions": 24579.0,
+                    "spend": 1584.252756,
+                    "type": "HEADLINE",
+                    "value": "The lottery sucks. Try Yotta"
+                },
+                "16815025474_asset": {
+                    "account_id": "4527200254",
+                    "ad_ids": [
+                        "550988341652",
+                        "545891673356",
+                        "542450079804"
+                    ],
+                    "clicks": 186.0,
+                    "conversions": 51.0,
+                    "cost_per_conversions": 11.4733333333,
+                    "ctr": 2.3727516265,
+                    "impressions": 7839.0,
+                    "spend": 585.14,
+                    "type": "DESCRIPTION",
+                    "value": "What is love? Savings don't hurt me. No more. Save money with Yotta and win up to $10M."
+                },
+                "17769808933_asset": {
+                    "account_id": "4527200254",
+                    "ad_ids": [
+                        "553130310477"
+                    ],
+                    "clicks": 0.0,
+                    "conversions": 0.0,
+                    "cost_per_conversions": 0.0,
+                    "ctr": 0.0,
+                    "impressions": 14.0,
+                    "spend": 0.0,
+                    "type": "DESCRIPTION",
+                    "value": "The only debit card that could make you a millionaire"
+                },
+                "17848562694_asset": {
+                    "account_id": "4527200254",
+                    "ad_ids": [
+                        "553130310477"
+                    ],
+                    "clicks": 0.0,
+                    "conversions": 0.0,
+                    "cost_per_conversions": 0.0,
+                    "ctr": 0.0,
+                    "impressions": 9.0,
+                    "spend": 0.0,
+                    "type": "HEADLINE",
+                    "value": "Can your debit card do this?"
+                },
+                "17848573368_asset": {
+                    "account_id": "4527200254",
+                    "ad_ids": [
+                        "553130310477"
+                    ],
+                    "clicks": 0.0,
+                    "conversions": 0.0,
+                    "cost_per_conversions": 0.0,
+                    "ctr": 0.0,
+                    "impressions": 7.0,
+                    "spend": 0.0,
+                    "type": "HEADLINE",
+                    "value": "Save, spend, win big"
+                },
+                "17848573374_asset": {
+                    "account_id": "4527200254",
+                    "ad_ids": [
+                        "553130310477"
+                    ],
+                    "clicks": 0.0,
+                    "conversions": 0.0,
+                    "cost_per_conversions": 0.0,
+                    "ctr": 0.0,
+                    "impressions": 27.0,
+                    "spend": 0.0,
+                    "type": "DESCRIPTION",
+                    "value": "With the Yotta debit card every swipe has a 1 in 250 chance of being on us!"
+                },
+                "17848573380_asset": {
+                    "account_id": "4527200254",
+                    "ad_ids": [
+                        "553130310477"
+                    ],
+                    "clicks": 2.0,
+                    "conversions": 2.0,
+                    "cost_per_conversions": 0.915,
+                    "ctr": 3.4482758621,
+                    "impressions": 58.0,
+                    "spend": 1.83,
+                    "type": "HEADLINE",
+                    "value": "Cashback? How about free items"
+                },
+                "18160144703_asset": {
+                    "account_id": "4527200254",
+                    "ad_ids": [
+                        "542450079804"
+                    ],
+                    "clicks": 0.0,
+                    "conversions": 0.0,
+                    "cost_per_conversions": 0.0,
+                    "ctr": 0.0,
+                    "impressions": 29.0,
+                    "spend": 0.0,
+                    "type": "DESCRIPTION",
+                    "value": "Saving money has never been so sexy."
+                }
+            }
+        },
+        "normal_text": {
+            "top_text": {},
+            "worst_text": {}
+        }
+    },
+    "success": true
+}
